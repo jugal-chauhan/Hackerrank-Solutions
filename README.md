@@ -6,6 +6,7 @@
 </p>
 
 * [Java](#java)
+* [Python](#python)
 
 # Java
 
@@ -39,3 +40,6 @@
 | Object Oriented Programming | [Java Interface](https://www.hackerrank.com/challenges/java-interface)                                                   |   10   | [Solution.java](https://github.com/jugal-chauhan/Hackerrank-Solutions/blob/master/Java/Object%20Oriented%20Programming/JavaInterface.java)                                   |
 | Object Oriented Programming | [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding)                                   |   10   | [Solution.java](https://github.com/jugal-chauhan/Hackerrank-Solutions/blob/master/Java/Object%20Oriented%20Programming/JavaMethodOverriding.javaq)                         |
 |      Exception Handling     | [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling)                                 |   15   | [Solution.java](https://github.com/jugal-chauhan/Hackerrank-Solutions/blob/master/Java/Exception%20Handling/JavaExceptionHandling.java)                                   |
+
+
+# Python
